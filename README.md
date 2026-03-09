@@ -13,7 +13,7 @@ Before that, I broke RAG pipelines at SmartEarth on purpose, then fixed them pro
 - Researching V2V cooperative perception: 3D -> BEV -> generative reconstruction -> back to 3D.
 - Building now: RAG evaluation pipeline, ROS2 perception demo, full-stack rental system.
 - Looking for Summer/Fall 2026 roles in SWE, Robotics, Perception, or Data/ML (Canada).
-- Vibe check: less talking, more building. Gan huo first.
+- Vibe check: less talking, more building. Results first.
 
 ---
 
@@ -46,4 +46,4 @@ Spring Boot | MySQL | Firebase | Git | Linux | HPC
 
 ---
 
-<sub>I design the system, run the experiments, and debug at 3am when needed. Robots don't build themselves yet, la.</sub>
+<sub>I design the systems, run the experiments, and enjoy turning ideas into working things.</sub>
