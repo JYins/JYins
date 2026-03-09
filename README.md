@@ -1,18 +1,19 @@
 ﻿# Hey, I'm Jeremy Yin
 
-**Building robots that see** and software that ships.
+**Building robots that see** and software that actually ships.
 
-M.Eng Robotics and Control at Western | B.Sc CS at UAlberta  
-Currently reconstructing LiDAR occlusions for V2V autonomous driving perception.  
-Previously broke RAG pipelines at SmartEarth so they could be fixed properly.
+M.Eng Robotics and Control @ Western | B.Sc CS @ UAlberta  
+Right now I'm doing LiDAR occlusion reconstruction for V2V autonomous driving perception.  
+Before that, I broke RAG pipelines at SmartEarth on purpose, then fixed them properly.
 
 ---
 
 ## What I'm up to
 
-- Research: V2V cooperative perception, 3D to BEV generative reconstruction, then back to 3D.
-- Building: RAG evaluation pipeline, ROS2 perception demo, full-stack rental system.
-- Looking for: Summer/Fall 2026 roles in SWE, Robotics, Perception, or Data/ML in Canada.
+- Researching V2V cooperative perception: 3D -> BEV -> generative reconstruction -> back to 3D.
+- Building now: RAG evaluation pipeline, ROS2 perception demo, full-stack rental system.
+- Looking for Summer/Fall 2026 roles in SWE, Robotics, Perception, or Data/ML (Canada).
+- Vibe check: less talking, more building. Gan huo first.
 
 ---
 
@@ -45,4 +46,4 @@ Spring Boot | MySQL | Firebase | Git | Linux | HPC
 
 ---
 
-<sub>I design the systems, I run the experiments, I debug at 3am. The robots don't build themselves, yet.</sub>
+<sub>I design the system, run the experiments, and debug at 3am when needed. Robots don't build themselves yet, la.</sub>
