@@ -3,13 +3,13 @@
 M.Eng. Robotics & Control @ Western University  
 B.Sc. Computing Science @ University of Alberta
 
-Software engineer focused on ML pipelines, RAG evaluation, backend systems, and perception projects.
+Software engineer focused on ML pipelines, RAG evaluation, backend systems, and robotic software.
 
 ## Focus
 
 - Software engineering: backend APIs, databases, full-stack systems, and product work that is straightforward to run and explain.
 - ML pipelines and RAG evaluation: retrieval benchmarking, config-driven experiments, metrics, CI, and failure-case analysis.
-- Perception and robotics: LiDAR, BEV reconstruction, ROS2 demos, and V2V cooperative perception.
+- Perception and robotic software: LiDAR, BEV reconstruction, ROS2 demos, and V2V cooperative perception.
 
 ## Trajectory
 
